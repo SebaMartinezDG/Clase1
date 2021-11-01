@@ -1,0 +1,37 @@
+body{
+    font-family:serif;
+    background-color:#E3D671 ;
+    color: #38372e;
+    line-height: 300xp;
+}
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #1e8681;
+    padding: 20px;
+    border-radius: 20px;
+    text-align: center;
+    
+}
+h2{
+    padding: 20px;
+    border:turquoise dotted
+}
+
+.titulo_especial{
+    background-color: #71e3ca;
+    border: black 2px solid;
+    font-size: 30px;
+    border-radius: 10px;
+    margin-top: 30px;
+    margin-bottom: 20;
+}
+table{
+    background-color: violet;
+}
+.sombra{
+text-shadow: rgb(51, 50, 50) 3px 3px 3px;
+}
+img{
+   width:  100pc;
+   border-radius: 10px;
+}
